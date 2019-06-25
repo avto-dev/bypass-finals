@@ -1,3 +1,21 @@
+# Composer lock file
+composer.lock
+
+# IDEs
+/nbproject
+/.idea
+
+# Vendors
 /vendor
-/composer.lock
-tests/**/output/
+
+# Temp dirs & trash
+/temp
+/tmp
+/tests/**/output
+/install
+/build
+/coverage
+/phpunit.xml
+clover-file
+.DS_Store
+.php_cs.cache
