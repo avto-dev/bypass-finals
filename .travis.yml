@@ -23,13 +23,6 @@ after_failure:
 
 jobs:
   include:
-    - name: Nette Coding Standard
-      php: 7.1
-      install:
-        - travis_retry composer create-project nette/coding-standard temp/coding-standard ^2 --no-progress
-      script:
-        - php temp/coding-standard/ecs check src tests --config tests/coding-standard.yml;
-
     - stage: Static Analysis (informative)
       php: 7.1
       install:
