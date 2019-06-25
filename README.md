@@ -4,7 +4,6 @@ Bypass Finals
 [![Version][badge_packagist_version]][link_packagist]
 [![Version][badge_php_version]][link_packagist]
 [![Build Status][badge_build_status]][link_build_status]
-[![Coverage][badge_coverage]][link_coverage]
 [![Downloads count][badge_downloads_count]][link_packagist]
 [![License][badge_license]][link_license]
 
@@ -73,7 +72,6 @@ If you will find any package errors, please, [make an issue][link_create_issue] 
 [badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/bypass-finals.svg?maxAge=180
 [badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/bypass-finals.svg?longCache=true
 [badge_build_status]:https://travis-ci.org/avto-dev/bypass-finals.svg?branch=master
-[badge_coverage]:https://img.shields.io/codecov/c/github/avto-dev/bypass-finals/master.svg?maxAge=60
 [badge_downloads_count]:https://img.shields.io/packagist/dt/avto-dev/bypass-finals.svg?maxAge=180
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/bypass-finals.svg?longCache=true
 [badge_release_date]:https://img.shields.io/github/release-date/avto-dev/bypass-finals.svg?style=flat-square&maxAge=180
@@ -83,7 +81,6 @@ If you will find any package errors, please, [make an issue][link_create_issue] 
 [link_releases]:https://github.com/avto-dev/bypass-finals/releases
 [link_packagist]:https://packagist.org/packages/avto-dev/bypass-finals
 [link_build_status]:https://travis-ci.org/avto-dev/bypass-finals
-[link_coverage]:https://codecov.io/gh/avto-dev/bypass-finals/
 [link_changes_log]:https://github.com/avto-dev/bypass-finals/blob/master/CHANGELOG.md
 [link_issues]:https://github.com/avto-dev/bypass-finals/issues
 [link_create_issue]:https://github.com/avto-dev/bypass-finals/issues/new/choose
