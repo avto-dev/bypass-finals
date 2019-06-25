@@ -22,7 +22,7 @@ Installation
 The recommended way to install is through Composer:
 
 ```bash
-composer require dg/bypass-finals --dev
+composer require --dev avto-dev/bypass-finals "^1.2"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
