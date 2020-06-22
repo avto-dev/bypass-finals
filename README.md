@@ -1,7 +1,7 @@
 <p align="center">
     <sub><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="22"></sub> <strong>This package is abandoned and no longer maintained</strong> <sub><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="22"></sub><br />
     We suggests using the original <a href="https://github.com/dg/bypass-finals">dg/bypass-finals</a> package instead<br />
-    <em>since v1.2.0 it included all changes from this fork</em>
+    <em>since v1.2.0 it includes all changes from this fork</em>
 </p>
 
 Bypass Finals
